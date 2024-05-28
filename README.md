@@ -18,7 +18,7 @@
   <a href="https://www.leetcode.com/azaam_deviv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="azaam_deviv" height="30" width="40" /></a>
 </p>
 
-<img align="center" alt="Azaam's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=it22079572&theme=radical&show_icons=true&hide_border=true&line_height=24"/>
+<img align="auto" alt="Azaam's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=it22079572&theme=radical&show_icons=true&hide_border=true&line_height=24"/>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 

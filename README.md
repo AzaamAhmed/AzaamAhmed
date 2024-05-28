@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Azaam Ahmed</h1>
 <h3 align="center">A passionate developer from Sri Lanka. I’m interested in developing software's and analyzing big data's.I’m currently learning BSc.IT specialising in Data Science @ SLIIT Uni</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=it22079572&label=Profile%20views&color=0e75b6&style=flat" alt="it22079572" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=it22079572&label=Profile%20views&color=0e75b6&style=flat" alt="it22079572" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=it22079572" alt="it22079572" /></a> </p>
 

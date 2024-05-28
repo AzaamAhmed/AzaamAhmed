@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Azaam Ahmed</h1>
+<h1 align="center">Hello There 👋, I'm Azaam Ahmed</h1>
 <h3 align="center">A passionate developer from Sri Lanka. I’m interested in developing software's and analyzing big data's.I’m currently learning BSc.IT specialising in Data Science @ SLIIT Uni</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=it22079572&label=Profile%20views&color=0e75b6&style=flat" alt="it22079572" /> </p>

@@ -1,4 +1,4 @@
-             ### Hello Everyone... 👋, Azaam Here
+### Hello Everyone... 👋, Azaam Here
 
 - 👋 Hi, I’m Azaam Ahmed
 - 👀 I’m interested in developing softwares and analysing big datas.

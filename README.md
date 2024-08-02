@@ -1,9 +1,9 @@
 <h1 align="center">Hello There 👋, I'm Azaam Ahmed</h1>
 <h3 align="center">A passionate developer from Sri Lanka. I’m interested in developing software's and analyzing big data's.I’m currently learning BSc.IT specialising in Data Science @ SLIIT Uni</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=it22079572&label=Profile%20views&color=0e75b6&style=flat" alt="it22079572" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=it22079572&label=Profile%20views&color=0e75b6&style=flat" alt="azaamahmed" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=it22079572" alt="it22079572" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azaamahmed" alt="azaamahmed" /></a> </p>
 
 - 📫 How to reach me **azaamahmed555@gmail.com**
 
@@ -18,7 +18,7 @@
   <a href="https://www.leetcode.com/azaam_deviv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="azaam_deviv" height="30" width="40" /></a>
 </p>
 
-<img align="center" alt="Azaam's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=it22079572&theme=radical&show_icons=true&hide_border=true&line_height=24"/>
+<img align="center" alt="Azaam's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azaamahmed&theme=radical&show_icons=true&hide_border=true&line_height=24"/>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 

@@ -1,5 +1,5 @@
 <h1 align="center">Hello There 👋, I'm Azaam Ahmed</h1>
-<h3 align="center">A passionate developer from Sri Lanka. I’m interested in developing software's and analyzing big data's.I’m currently learning BSc.IT specialising in Information Technology @ SLIIT Uni</h3>
+<h3 align="center">A passionate AI ML developer from Sri Lanka. I’m interested in developing softwares, Web Applications, ML models and AI Agents and analyzing big datas. I’m currently learning Bachelor of Information Technology specialising in Information Technology @ SLIIT Uni</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=it22079572&label=Profile%20views&color=0e75b6&style=flat" alt="azaamahmed" /> </p>
 

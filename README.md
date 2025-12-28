@@ -1,5 +1,18 @@
-<h1 align="center">Hello There 👋, I'm Azaam Ahmed</h1>
-<h3 align="center">A passionate AI ML developer from Sri Lanka. I’m interested in developing softwares, Web Applications, ML models and AI Agents and analyzing big datas. I’m currently learning Bachelor of Information Technology specialising in Information Technology @ SLIIT Uni</h3>
+# ⚡ Azaam Ahmed | AI/ML Engineer & Full Stack Developer
+
+<div align="center">
+
+![Banner](https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=Azaam%20Ahmed&fontSize=60&animation=fadeIn&fontColor=00ffcc&color=0:000000,100:00ff00)
+
+### 🧠 AI/ML Engineer • Full Stack Developer • AI Automation Builder  
+**Engineering scalable intelligence & production-ready systems**
+
+![Location](https://img.shields.io/badge/📍%20Sri%20Lanka-000000?style=for-the-badge&color=00ff00)
+![Open](https://img.shields.io/badge/Open%20to%20Work-000000?style=for-the-badge&color=00ff00)
+![Focus](https://img.shields.io/badge/Focus-AI%20%26%20Automation-000000?style=for-the-badge&color=00ff00)
+
+</div>
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=it22079572&label=Profile%20views&color=0e75b6&style=flat" alt="azaamahmed" /> </p>
 

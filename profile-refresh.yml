@@ -1,0 +1,29 @@
+
+### 📄 `profile-refresh.yml`
+
+```yaml
+name: Daily Profile Refresh
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # daily at 00:00 UTC
+  workflow_dispatch:
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Inject refresh timestamp
+        run: |
+          sed -i "1s|^|<!-- refreshed: $(date -u) -->\n|" README.md
+
+      - name: Commit & Push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add README.md
+          git commit -m "chore: auto-refresh profile" || echo "No changes"
+          git push

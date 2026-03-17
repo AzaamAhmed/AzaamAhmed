@@ -1,13 +1,12 @@
-
-### 📄 `profile-refresh.yml`
-
-```yaml
 name: Daily Profile Refresh
 
 on:
   schedule:
     - cron: "0 0 * * *" # daily at 00:00 UTC
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   refresh:

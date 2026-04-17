@@ -29,9 +29,6 @@
   <a href="https://linkedin.com/in/azaamahmed" target="_blank" rel="noopener noreferrer nofollow">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://stackoverflow.com/users/azaam-ahmed" target="_blank" rel="noopener noreferrer nofollow">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" />
-  </a>
   <a href="https://instagram.com/itz_me_azaam_a_" target="_blank" rel="noopener noreferrer nofollow">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>

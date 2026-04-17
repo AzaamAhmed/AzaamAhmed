@@ -1,0 +1,33 @@
+name: Daily Profile Refresh
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Inject refresh timestamp
+        run: |
+          TIMESTAMP="<!-- refreshed: $(date -u +"%Y-%m-%d %H:%M:%S UTC") -->"
+          if head -n 1 README.md | grep -q "^<!-- refreshed:"; then
+            sed -i "1s|.*|$TIMESTAMP|" README.md
+          else
+            sed -i "1s|^|$TIMESTAMP\n|" README.md
+          fi
+
+      - name: Commit & Push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add README.md
+          git commit -m "chore: auto-refresh profile" || exit 0
+          git push

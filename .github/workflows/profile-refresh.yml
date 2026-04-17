@@ -19,9 +19,9 @@ jobs:
         run: |
           TIMESTAMP="<!-- refreshed: $(date -u +"%Y-%m-%d %H:%M:%S UTC") -->"
           if head -n 1 README.md | grep -q "^<!-- refreshed:"; then
-            sed -i "1s|.*|$TIMESTAMP|" README.md
+            sed -i "1s#.*#$TIMESTAMP#" README.md
           else
-            sed -i "1s|^|$TIMESTAMP\n|" README.md
+            sed -i "1s#^#$TIMESTAMP\n#" README.md
           fi
 
       - name: Commit & Push

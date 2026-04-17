@@ -18,7 +18,7 @@ jobs:
       - name: Inject refresh timestamp
         run: |
           TIMESTAMP="<!-- refreshed: $(date -u +"%Y-%m-%d %H:%M:%S UTC") -->"
-          if head -n 1 README.md | grep -q "^<!-- refreshed:"; then
+          if head -n 1 README.md | grep -q "<!-- refreshed:"; then
             sed -i "1s#.*#$TIMESTAMP#" README.md
           else
             sed -i "1s#^#$TIMESTAMP\n#" README.md

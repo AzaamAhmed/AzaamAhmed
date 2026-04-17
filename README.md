@@ -26,16 +26,16 @@
 ## 🌐 Connect
 
 <p align="left">
-  <a href="https://linkedin.com/in/azaamahmed" target="_blank" rel="noopener noreferrer nofollow">
+  <a href="https://linkedin.com/in/azaamahmed" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/itz_me_azaam_a_" target="_blank" rel="noopener noreferrer nofollow">
+  <a href="https://instagram.com/itz_me_azaam_a_" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
-  <a href="https://www.hackerrank.com/azaamahmed555" target="_blank" rel="noopener noreferrer nofollow">
+  <a href="https://www.hackerrank.com/azaamahmed555" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
   </a>
-  <a href="https://www.leetcode.com/azaam_deviv" target="_blank" rel="noopener noreferrer nofollow">
+  <a href="https://www.leetcode.com/azaam_deviv" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
 </p>
